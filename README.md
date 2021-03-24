@@ -8,7 +8,7 @@
 
 **O mnie:**
 
-- Aktualnie pracuję nad: __[gui-discord-bot](https://github.com/duhack/gui-discord-bot)__.
+- Aktualnie pracuję nad: __[mta-player-panel](https://github.com/duhack/mta-player-panel)__.
 - W tym momencie uczę się: __Python__.
 - Poszukuję współprac, zleceń.
 - Tutaj mnie znajdziesz: __kontakt@duhack.pl__.
