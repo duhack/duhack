@@ -31,11 +31,5 @@
   
   
 </p>
-
----
-
-<img width="50%" alt="duhack-github-stats" src="https://github-readme-stats.vercel.app/api?username=duhack&show_icons=true&hide_border=true" />
-</a>
-
 -----
-Edytowano: 20/03/2021
+Edytowano: 29/03/2021
