@@ -1,11 +1,3 @@
-## Witaj na moim profilu :smirk:
-
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://duhack.pl)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/duhack)
-
-&nbsp;
-
 **O mnie:**
 
 - Aktualnie pracuję nad: __[mta-player-panel](https://github.com/duhack/mta-player-panel)__.
